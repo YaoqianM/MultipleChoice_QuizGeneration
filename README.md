@@ -3,8 +3,11 @@ A jQuery plugin for creating pretty, dynamic quizzes.
 ## Project Status & Modifications
 
 This project is a modified version of the original SlickQuiz by Julie Cameron (jewlofthelotus) and Quicken Loans, available at [https://github.com/jewlofthelotus/SlickQuiz](https://github.com/jewlofthelotus/SlickQuiz).
-![Quiz Selection](2025-05-28 01_38_34-.png)
-![Quiz Selection](2025-05-28 01_37_39-SlickQuiz Demo and 28 more pages - Personal - Microsoft​ Edge.png)
+
+![Quiz Selection](https://raw.githubusercontent.com/YaoqianM/MultipleChoice_QuizGeneration/main/img1.png)
+
+![Quiz Selection](https://raw.githubusercontent.com/YaoqianM/MultipleChoice_QuizGeneration/main/img2.png)
+
 **Key modifications in this version include:**
 
 *   **Modular Quiz Loading:** Quizzes are now defined in separate JavaScript files (e.g., `js/quizzes/vocabulary_english_quiz.js`) and can be selected via a dropdown menu in `index.html`. The `js/master.js` file handles dynamic loading and initialization of these quizzes.
